@@ -6,7 +6,7 @@
 
 安装TortoiseGit后需要配置SSH Client:
 
-![image-20200531000455432](.\image-20200531000455432.png)
+![image-20200531000455432](https://github.com/victor-yang/CreateNewRepository/raw/master/.%5Cimage-20200531000455432.png)
 
 ##### 配置Git
 
