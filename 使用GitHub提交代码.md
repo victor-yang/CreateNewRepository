@@ -2,11 +2,11 @@
 
 ##### 安装Git和TortoiseGit
 
-在官网https://gitforwindows.org/和https://tortoisegit.org/download/分别下载对应版本和操作系统的Git（命令行）和TortoiseGit（图形界面），先安装Git再安装TortoiseGit
+在官网 https://gitforwindows.org/ 和 https://tortoisegit.org/download/ 分别下载对应版本和操作系统的Git（命令行）和TortoiseGit（图形界面），先安装Git再安装TortoiseGit
 
 安装TortoiseGit后需要配置SSH Client:
 
-![image-20200531000455432](https://github.com/victor-yang/CreateNewRepository/raw/master/image-20200531000455432.png)
+![image](https://github.com/victor-yang/CreateNewRepository/raw/master/img/image-20200531000455432.png)
 
 ##### 配置Git
 
@@ -38,7 +38,7 @@ SSH协议是一种非常常用的Git仓库访问协议，使用公钥认证、�
 
 ##### 新建代码仓库
 
-![image-20200531000105570](.\image-20200531000105570.png)
+![image](https://github.com/victor-yang/CreateNewRepository/raw/master/img/image-20200531000105570.png)
 
 ##### 新建MR
 
@@ -46,11 +46,11 @@ SSH协议是一种非常常用的Git仓库访问协议，使用公钥认证、�
 
 1)进入新建好的代码仓，复制代码仓的SSH链接
 
-![image-20200531000618358](.\image-20200531000618358.png)
+![image](https://github.com/victor-yang/CreateNewRepository/raw/master/img/image-20200531000618358.png)
 
 2)本地新建文件夹，鼠标右键选择Git Clone
 
-![image-20200531000829321](.\image-20200531000829321.png)
+![image](https://github.com/victor-yang/CreateNewRepository/raw/master/img/image-20200531000829321.png)
 
 ###### 提交文件
 
